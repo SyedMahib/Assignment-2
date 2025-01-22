@@ -147,6 +147,13 @@
     display: none;
 }
 
+.slide{
+    font-size: 20px;
+    font-weight: 700;
+    background-color: slateblue;
+    color: white;
+}
+
 /* banner related styles */
 
 .banner-container{
@@ -231,6 +238,11 @@
     border-radius: 19px;
 }
 
+.curriculam-card:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+
 .curriculam-img{
     margin-top: 52px;
     width: 136px;
@@ -273,6 +285,12 @@
     margin-right: 10px;
 }
 
+.next-btn:hover{
+    background-color: rgb(255, 68, 0);
+    transform: scale(1.05);
+    transition: 1s;
+}
+
 .next-btn> a{
     text-decoration: none;
     color: white;
@@ -304,6 +322,11 @@
     border-radius: 16px;
     /* width: 540px; */
     background-color: white;
+}
+
+.big-card:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
 }
 
 .large-card> img{
@@ -416,6 +439,11 @@
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 20%);
     border-radius: 16px;
     background-color: white;
+}
+
+.normal-card:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
 }
 
 .normal-card> img{
