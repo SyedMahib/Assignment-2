@@ -192,6 +192,12 @@
     cursor: pointer;
 }
 
+.banner-btn:hover{
+    background-color: rgba(1, 172, 253, 1);
+    transition: 1s;
+
+}
+
 .banner-btn> a{
     color: white;
     text-decoration: none;
@@ -476,6 +482,11 @@
     background-color: black;
     margin-bottom: 60px;
         
+}
+
+.view-more-btn:hover{
+    background-color:  rgba(254, 163, 1, 1);
+    transition: 1s;
 }
 
 .view-more-btn> a{
