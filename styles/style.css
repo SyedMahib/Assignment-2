@@ -286,168 +286,168 @@
 
 /* Our stories related styles */
 
-    .our-stories{
-        background-image: url('../assets/bg.png'), linear-gradient(360deg, #eed390, white);    
-    }
+.our-stories{
+    background-image: url('../assets/bg.png'), linear-gradient(360deg, #eed390, white);    
+}
 
 
-    .story-container{
-        display: flex;
-        justify-content: space-between;
-        margin: 80px 140px;
-        gap: 20px;
-    }
+.story-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px 140px;
+    gap: 20px;
+}
 
-    .big-card{
-        /* border: 1px solid black; */
-        box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 20%);
-        border-radius: 16px;
-        /* width: 540px; */
-        background-color: white;
-    }
+.big-card{
+    /* border: 1px solid black; */
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 20%);
+    border-radius: 16px;
+    /* width: 540px; */
+    background-color: white;
+}
 
-    .large-card> img{
-        /* margin-bottom: 60px; */
-        border-radius: 16px 16px 0 0;
-        width: 100%;
-    }
+.large-card> img{
+    /* margin-bottom: 60px; */
+    border-radius: 16px 16px 0 0;
+    width: 100%;
+}
 
-    .date-large{
-        font-size: 0.9rem;
-        font-weight: 500;
-        color: white;
-        background-color: rgba(60, 216, 232, 1);
-        border: none;
-        border-radius: 50px;
-        padding: 15px 18px;
-        text-align: center;
-        width: 150px;
-        position: relative;
-        bottom: 30px;
-        left: 40px;
-    }
+.date-large{
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: white;
+    background-color: rgba(60, 216, 232, 1);
+    border: none;
+    border-radius: 50px;
+    padding: 15px 18px;
+    text-align: center;
+    width: 150px;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+}
 
-    .date-normal-1{
-        font-size: 0.9rem;
-        font-weight: 500;
-        color: white;
-        background-color: rgba(149, 178, 38, 1);
-        border: none;
-        border-radius: 50px;
-        padding: 15px 18px;
-        text-align: center;
-        width: 150px;
-        position: relative;
-        bottom: 30px;
-        left: 38px;
-    }
+.date-normal-1{
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: white;
+    background-color: rgba(149, 178, 38, 1);
+    border: none;
+    border-radius: 50px;
+    padding: 15px 18px;
+    text-align: center;
+    width: 150px;
+    position: relative;
+    bottom: 30px;
+    left: 38px;
+}
 
-    .date-normal-2{
-        font-size: 0.9rem;
-        font-weight: 500;
-        color: white;
-        background-color: rgba(93, 88, 240, 1);
-        border: none;
-        border-radius: 50px;
-        padding: 15px 18px;
-        text-align: center;
-        width: 150px;
-        position: relative;
-        bottom: 30px;
-        left: 40px;
-    }
+.date-normal-2{
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: white;
+    background-color: rgba(93, 88, 240, 1);
+    border: none;
+    border-radius: 50px;
+    padding: 15px 18px;
+    text-align: center;
+    width: 150px;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+}
 
-    .date-normal-3{
-        font-size: 0.9rem;
-        font-weight: 500;
-        color: white;
-        background-color: rgba(149, 178, 38, 1);
-        border: none;
-        border-radius: 50px;
-        padding: 15px 18px;
-        text-align: center;
-        width: 150px;
-        position: relative;
-        bottom: 30px;
-        left: 40px;
-    }
+.date-normal-3{
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: white;
+    background-color: rgba(149, 178, 38, 1);
+    border: none;
+    border-radius: 50px;
+    padding: 15px 18px;
+    text-align: center;
+    width: 150px;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+}
 
-    .date-normal-4{
-        font-size: 0.9rem;
-        font-weight: 500;
-        color: white;
-        background-color: rgba(149, 178, 38, 1);
-        border: none;
-        border-radius: 50px;
-        padding: 15px 18px;
-        text-align: center;
-        width: 127px;
-        position: relative;
-        bottom: 30px;
-        left: 40px;
-    }
+.date-normal-4{
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: white;
+    background-color: rgba(149, 178, 38, 1);
+    border: none;
+    border-radius: 50px;
+    padding: 15px 18px;
+    text-align: center;
+    width: 127px;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+}
 
-    .story-title{
-        font-size: 1.5rem;
-        font-weight: 700;
-        line-height: 2.4rem;
-        margin-bottom: 50px;
-        margin-left: 40px;
-        margin-right: 40px;
-    }
+.story-title{
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 2.4rem;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
 
-    .story-description{
-        font-size: 0.9rem;
-        font-weight: 500;
-        line-height: 29px;
-        margin-bottom: 34px;
-        margin-left: 38px;
-        margin-right: 68px;width: 433px;
-    }
+.story-description{
+    font-size: 0.9rem;
+    font-weight: 500;
+    line-height: 29px;
+    margin-bottom: 34px;
+    margin-left: 38px;
+    margin-right: 68px;width: 433px;
+}
 
-    .cards{
-        display: grid;
-        grid-template-columns: repeat(2, 2fr);
-        gap: 15px;
-    }
+.cards{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    gap: 15px;
+}
 
-    .normal-card{
-        /* border: 1px solid black; */
-        box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 20%);
-        border-radius: 16px;
-        background-color: white;
-    }
+.normal-card{
+    /* border: 1px solid black; */
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 20%);
+    border-radius: 16px;
+    background-color: white;
+}
 
-    .normal-card> img{
-        width: 100%;
-        border-radius: 16px 16px 0 0;
-    }
+.normal-card> img{
+    width: 100%;
+    border-radius: 16px 16px 0 0;
+}
 
-    .story-title-small{
-        font-size: 0.9rem;
-        font-weight: 700;
-        line-height: 28px;
-        margin-left: 38px;
-        margin-right: 55px;
-        margin-bottom: 33px;
-        /* margin-top: 43px; */
-        width: 214px;
-    }
+.story-title-small{
+    font-size: 0.9rem;
+    font-weight: 700;
+    line-height: 28px;
+    margin-left: 38px;
+    margin-right: 55px;
+    margin-bottom: 33px;
+    /* margin-top: 43px; */
+    width: 214px;
+}
 
-    .view-btn{
-        text-align: center;
-    }
+.view-btn{
+    text-align: center;
+}
 
-    .view-more-btn{
-        font-size: 1.25rem;
-        font-weight: 700;
-        padding: 10px 40px;
-        border: none;
-        border-radius: 12px;
-        background-color: black;
-        margin-bottom: 60px;
+.view-more-btn{
+    font-size: 1.25rem;
+    font-weight: 700;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 12px;
+    background-color: black;
+    margin-bottom: 60px;
         
-    }
+}
 
 .view-more-btn> a{
     text-decoration: none;
